@@ -1,0 +1,16 @@
+.DS_Store
+
+# go
+points-verify.txt
+points.txt
+points-generator
+main
+parser
+
+# node
+node_modules
+
+#zig
+*.out
+zig-out/
+.zig-cache/
